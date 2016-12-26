@@ -1,5 +1,5 @@
-Liste de produits, d'articles et de documentation en rapport avec la sécurité informatique.
-##########################################################################################
+Liste concernant la sécurité informatique.
+==========================================
 
 Articles :
 ==========
